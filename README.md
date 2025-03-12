@@ -1,4 +1,4 @@
-# Job-Scam-Detection
+# Job Scam Detection
 
 ## Introduction
 This project aims to detect fraudulent job postings using machine learning techniques. The goal is to help job seekers identify and avoid scam job listings, ensuring a safer job search experience.
